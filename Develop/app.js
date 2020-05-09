@@ -60,7 +60,6 @@ function addEmployee(response) {
     } else {
         writeTeamFile(outputPath, render(employeeList));
     }
-
 }
 
 // Prompts the user to answer questions to add employees

@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: lightgreen;
+    color: lightgoldenrodyellow;
+}
+
+.employee-card{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: skyblue;
+}
+
+.list-group {
+    background-color: lightcoral;
+}
