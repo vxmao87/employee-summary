@@ -14,6 +14,8 @@
 
 * [Issues](#issues)
 
+* [Questions](#questions)
+
 ## Description
 
 An application that allows the user to build a software engineering team profile by typing in necessary information. The user can create managers, employees and interns. 
@@ -40,6 +42,8 @@ When running the app, the user is first asked for the employee's first and last 
 
 ![image](Develop/assets/img/employee-summary-webpage.png)
 
+You may also access a video demonstration of the application [here](https://drive.google.com/file/d/1_cTsruQP8peDP6mQE13aznALuYQ9yUGf/view?usp=sharing).
+
 ## Tests
 
 A Tests folder is included with the project.
@@ -48,4 +52,6 @@ A Tests folder is included with the project.
 
 * Though a small input error, the app creates a comma after adding more than 3 employees next to the boxes where the employee information is stored.
 
+## Questions
 
+For questions or collaborations, please contact me through [GitHub](https://github.com/vxmao87).
